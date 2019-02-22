@@ -1,0 +1,12 @@
+.product-card {
+    margin: 20px;
+}
+
+.product-image{
+    #height: 300px;
+}
+
+.card {
+    display:inline-flex;
+    height: 550px;
+}
